@@ -1,4 +1,4 @@
-# IMAGE HERE
+![Consolidatedbanner](https://user-images.githubusercontent.com/49575478/205424666-347feda0-4fa4-4bcd-a46d-8453d1b862c0.png)
 <details open>
 <summary>Description</summary>
 <details open>
@@ -11,7 +11,7 @@ Consoleidated is a modpack designed to bring the gameplay experience from the Le
 </details>
 </details>
 
-## Image here
+![Screenshots](https://user-images.githubusercontent.com/49575478/205426733-9b842298-ea57-4487-9f20-fc8e90ffffda.png)
 
 <details open>
 <summary>Mini Games?</summary>
@@ -21,7 +21,6 @@ and should maintain full compatibility.
 <b>ONLY THE BATTLE MINI GAME</b>
 </details>
 
-## Image here
 
 <details open>
 <summary>Not your cup of tea?</summary>
@@ -29,4 +28,5 @@ Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console
 <p>Both our modpacks are fully compatible with the LEM server network</p>
 </details>
 
-## screenshots
+
+
