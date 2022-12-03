@@ -3,7 +3,7 @@
 <summary>Description</summary>
 <details open>
 <summary>About</summary>
-Consoleidated is a modpack designed to bring the gameplay experience from the Legacy Console versions of Minecraft, to the Java edition. We accomplish this with a series of Mods and Resorcepacks*
+Consoleidated is a modpack designed to bring the gameplay experience from the Legacy Console versions of Minecraft, to the Java edition. We accomplish this with a series of Mods and Resourcepacks*
 </details>
 <details>
 <summary>Note</summary>
