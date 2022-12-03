@@ -1,0 +1,134 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-03-24 15:22:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-03-24 15:02:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2021-03-24 15:09:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2021-03-24 15:12:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-03-24 15:22:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2021-03-24 15:09:20 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-03-24 15:09:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-03-24 15:22:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-03-24 15:12:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-03-24 15:09:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2021-03-24 15:12:46 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-03-24 14:58:11 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-03-24 14:57:51 -0400",
+      "minecraft:mushroom_fields": "2021-03-24 15:11:57 -0400",
+      "minecraft:taiga": "2021-03-24 15:05:24 -0400",
+      "minecraft:desert_hills": "2021-03-24 15:03:23 -0400",
+      "minecraft:giant_tree_taiga": "2021-03-24 15:00:20 -0400",
+      "minecraft:taiga_hills": "2021-03-24 15:01:00 -0400",
+      "minecraft:desert": "2021-03-24 15:03:22 -0400",
+      "minecraft:deep_frozen_ocean": "2021-03-24 14:59:40 -0400",
+      "minecraft:jungle": "2021-03-24 14:58:31 -0400",
+      "minecraft:birch_forest": "2021-03-24 15:00:11 -0400",
+      "minecraft:deep_lukewarm_ocean": "2021-03-24 15:00:28 -0400",
+      "minecraft:badlands": "2021-03-24 14:59:53 -0400",
+      "minecraft:beach": "2021-03-24 15:00:13 -0400",
+      "minecraft:dark_forest": "2021-03-24 15:04:45 -0400",
+      "minecraft:river": "2021-03-24 15:01:27 -0400",
+      "minecraft:swamp": "2021-03-24 15:08:32 -0400",
+      "minecraft:savanna": "2021-03-24 14:59:23 -0400",
+      "minecraft:plains": "2021-03-24 14:57:37 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2021-03-24 15:12:43 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
