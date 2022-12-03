@@ -1,0 +1,9 @@
+name = "LEM client helper"
+filename = "lemclienthelper-0.0.12-1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/880533722322042901/1044856388268081173/lemclienthelper-0.0.12-1.19.jar"
+
+hash-format = "sha256"
+hash = "71bde2d619f35f3a1103a8527df3581122149d92b43436d5bdc2acf8ee26e0e8"

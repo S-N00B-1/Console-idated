@@ -1,0 +1,65 @@
+{
+  "configVersion": 1,
+  "controlsMode": "CONTROLLER",
+  "autoSwitchMode": false,
+  "debug": false,
+  "hudEnable": false,
+  "hudSide": "LEFT",
+  "analogMovement": true,
+  "doubleTapToSprint": true,
+  "controllerToggleSneak": true,
+  "controllerToggleSprint": true,
+  "fastBlockPlacing": true,
+  "flyDrifting": true,
+  "verticalFlyDrifting": true,
+  "horizontalReacharound": false,
+  "verticalReacharound": false,
+  "shouldRenderReacharoundOutline": true,
+  "reacharoundOutlineColorHex": "#ffffff",
+  "reacharoundOutlineColorAlpha": 102,
+  "rightDeadZone": 0.25,
+  "leftDeadZone": 0.25,
+  "invertRightYAxis": false,
+  "invertRightXAxis": false,
+  "rotationSpeed": 16.0,
+  "yAxisRotationSpeed": 40.0,
+  "mouseSpeed": 150.0,
+  "unfocusedInput": false,
+  "virtualMouse": false,
+  "virtualMouseSkin": "DEFAULT_LIGHT",
+  "controllerID": 0.0,
+  "secondControllerID": -1.0,
+  "controllerType": "DUALSHOCK",
+  "mouseScreens": [
+    "me.jellysquid.mods.sodium.client.gui",
+    "net.coderbot.iris.gui",
+    "net.minecraft.client.gui.screen.advancement",
+    "net.minecraft.client.gui.screen.pack.PackScreen",
+    "net.minecraft.class_5375",
+    "net.minecraft.class_457",
+    "net.minecraft.class_408"
+  ],
+  "arrowScreens": [
+    "net.minecraft.class_408"
+  ],
+  "wasdScreens": [
+    "com.ultreon.devices.core.Laptop"
+  ],
+  "BINDING": {
+    "controller.controls.lemclienthelper.key.takeeverything": "4"
+  },
+  "maxAnalogValues": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "triggerFix": true,
+  "enableHints": true,
+  "shortcutInControls": true,
+  "ringBindings": [],
+  "ignoredUnboundKeys": [
+    "inventorytabs.key.next_tab"
+  ],
+  "controllerBindingProfiles": {}
+}

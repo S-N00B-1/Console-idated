@@ -1,0 +1,8 @@
+{
+  "keybinds": {
+    "lem:lobbyready": {
+      "keybinding": "key.keyboard.r",
+      "controllerBind": "key.keboard.r"
+    }
+  }
+}

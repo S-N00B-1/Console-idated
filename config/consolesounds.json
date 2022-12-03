@@ -1,0 +1,10 @@
+{
+  "enableHoverSounds": true,
+  "enableInGameClickSounds": true,
+  "enableCraftingSounds": true,
+  "enableSliderSounds": true,
+  "playSoundOnPauseMenu": true,
+  "playSoundOnInGameMenu": true,
+  "playSoundOnMenuExit": true,
+  "playSoundOnInGameMenuExit": true
+}
