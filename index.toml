@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Slyde.json5"
-hash = "25de2fcf7c595a1b38b979d4b3c38c92ef321486b4d4b293d139e75cf2c7bcf2"
-
-[[files]]
 file = "config/bedrockify-ExternalLoadingTips.json"
 hash = "353fd628b7f6e7d426e5d6a27d1bc3ac22fa7f812e7594cf2ec5ca1175785b50"
 
@@ -137,10 +133,6 @@ file = "config/rrp.properties"
 hash = "f98ab08585b8c22f41916041a8b58e06bcc762f1f70ea831c9c8abe2351731c9"
 
 [[files]]
-file = "config/slyde.cfg"
-hash = "a9e29689c8591e0741c1e3647520109c98e4bbae0e1cde5188406f7769ab0b95"
-
-[[files]]
 file = "config/smoothboot.json"
 hash = "e96438af51e995d5f15d0053af921e778a854ca72b147839b150172305d73be3"
 
@@ -163,6 +155,11 @@ hash = "40326688902803c0ae7ae6ddfc490075404e0af2cbfc7e4d4d3ad3830464dcd7"
 [[files]]
 file = "mods/bedrockify.pw.toml"
 hash = "1c991568f0ccf604ecc7442d3ff89f89290a43c7c802d293949d2b6a393f8de2"
+metafile = true
+
+[[files]]
+file = "mods/bedrockwaters.pw.toml"
+hash = "3e81afa5760fe077f2be7d708fa3af1dd4c1df38706b2329c48e4a5435867d3d"
 metafile = true
 
 [[files]]
@@ -241,6 +238,11 @@ hash = "a5f9799104952ac1e34050e5bc7107f6cccdbcc9ee0cc1909e2391ab7c8fd515"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e81799d03283dbd61a864f3683017eecbd050e6c9b9450cc411960871d972e91"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
@@ -291,11 +293,6 @@ hash = "9bae8c564b6852b3b538a9cb42d8c9239228f5215fb7110bbb6353855c7b6ec1"
 metafile = true
 
 [[files]]
-file = "mods/slyde.pw.toml"
-hash = "cf646b0020255bb334eec61b0f1fd85504b61e08d8937587329aaf834a66e8a8"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "7e3a87d8fe40f54d83b0e4b9ddfbeea00ecbeb6b1439ec19d402f0fa07db61f5"
 metafile = true
@@ -322,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4db10c2b6e03eeccbb5454528361b38398adf460a6a5cf8234f2ec1e06306ea6"
+hash = "a570fce8c4338c438385f7c01e4890f980b4b6d5cd91c002c3339f7e6692844a"
 
 [[files]]
 file = "resourcepacks/LegacyPack.zip"
