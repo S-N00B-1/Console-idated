@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/template_glass_pane_inventory",
+	"textures": {
+		"pane": "minecraft:block/iron_bars",
+		"edge": "minecraft:block/iron_bars"
+	}
+}

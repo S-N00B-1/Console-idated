@@ -1,0 +1,14 @@
+name = "GLSL Panorama Shaders"
+filename = "glslmc-0.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kqc8wQyk/versions/essDshzM/glslmc-0.1.2.jar"
+hash-format = "sha1"
+hash = "8822162726b858e51053fe3e83b49103c25c4edd"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "kqc8wQyk"
+version = "essDshzM"

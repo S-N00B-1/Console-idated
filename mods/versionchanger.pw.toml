@@ -1,0 +1,14 @@
+name = "VersionChanger"
+filename = "versionchanger-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/387LWVd9/versions/TN8fxCAj/versionchanger-1.3.4.jar"
+hash-format = "sha1"
+hash = "44a679a3dcf240fd9ced984c0112f00b9a8d9ad7"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "387LWVd9"
+version = "TN8fxCAj"

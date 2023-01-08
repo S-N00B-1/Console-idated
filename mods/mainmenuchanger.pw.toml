@@ -1,0 +1,14 @@
+name = "MainMenuChanger"
+filename = "MainMenuChanger-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yCd6z53x/versions/O5IcKa96/MainMenuChanger-1.2.0.jar"
+hash-format = "sha1"
+hash = "931905c01ce8cb0c83160459c7a707a31056bf30"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "yCd6z53x"
+version = "O5IcKa96"

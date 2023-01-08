@@ -1,0 +1,12 @@
+{
+	"smallerSplash": false,
+	"changeCopyrightToC": true,
+	// Changes the version text to <version> <modloader>.
+	"shorterVersionText": true,
+	"modCount": false,
+	"disableRealmsButtonAndNotifs": false,
+	// Removes Language and Accessibility buttons from the title screen.
+	"disableSideButtons": false,
+	// Make the Multiplayer and Singleplayer buttons be on the same line
+	"mergeMultiAndSingle": false
+}
