@@ -125,8 +125,24 @@ file = "config/raised.json"
 hash = "f32ae41df0136ccacd16606ba6be83ffe321be43c2479e21e121b438a5b66566"
 
 [[files]]
+file = "config/replaymod.json"
+hash = "210a70314160809c8b78bb38e668238a0dffe7c732ac3e7bd5e1bd74dda6e0ad"
+
+[[files]]
 file = "config/rrp.properties"
 hash = "f98ab08585b8c22f41916041a8b58e06bcc762f1f70ea831c9c8abe2351731c9"
+
+[[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "0307c0ad42725a6eac3268efd95944feb97064313f01beba31d6ef447fa6df0d"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -150,7 +166,7 @@ hash = "40326688902803c0ae7ae6ddfc490075404e0af2cbfc7e4d4d3ad3830464dcd7"
 
 [[files]]
 file = "config/versionchanger.json5"
-hash = "6a92d6b4b7e42796d4f2484abbfdb7213fe3df929c1619ea51c9661ce0e1555a"
+hash = "3cbae7930d3d55dddd3f664e9155d2acaa542370365f49692724ff05c0a781b0"
 
 [[files]]
 file = "icon.png"

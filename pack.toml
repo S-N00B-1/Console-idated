@@ -1,12 +1,12 @@
 name = "Console-idated"
 author = "S_N00B"
-version = "1.0.5"
+version = "1.0.5.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f49927b44c948b77246e14b82dfbc7733b146429db87d7997b678dcf07a9156e"
+hash = "9e415d8feec9193e3f21fba4a33ed2b26beb2480843804fccaf2c7f761a9a576"
 
 [versions]
 fabric = "0.14.11"

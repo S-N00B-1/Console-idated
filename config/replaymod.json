@@ -1,6 +1,6 @@
 {
   "core": {
-    "notifications": false
+    "notifications": true
   },
   "advanced": {
     "recordingPath": "./replay_recordings/",
@@ -25,9 +25,9 @@
     "renameDialog": true
   },
   "replay": {
-    "showChat": false,
+    "showChat": true,
     "showServerIPs": true,
-    "camera": "replaymod.camera.vanilla",
+    "camera": "replaymod.camera.classic",
     "camera_valid_values": [
       "replaymod.camera.classic",
       "replaymod.camera.vanilla"
