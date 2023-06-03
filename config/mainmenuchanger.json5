@@ -6,7 +6,7 @@
 	"modCount": false,
 	"disableRealmsButtonAndNotifs": false,
 	// Removes Language and Accessibility buttons from the title screen.
-	"disableSideButtons": false,
+	"disableSideButtons": true,
 	// Make the Multiplayer and Singleplayer buttons be on the same line
 	"mergeMultiAndSingle": false
 }

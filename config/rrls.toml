@@ -1,0 +1,8 @@
+enabled = true
+rgbText = false
+loadingScreenHide = false
+worldLoadingHide = true
+showInGui = false
+showInGame = false
+resetResources = false
+reloadText = "rrls.reloadresources"

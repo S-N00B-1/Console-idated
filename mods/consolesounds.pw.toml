@@ -1,9 +1,0 @@
-name = "Console Sounds"
-filename = "consolesounds-1.0.0.jar"
-side = "client"
-
-[download]
-url = "https://github.com/S-N00B-1/consolesounds/releases/download/1.0.0/consolesounds-1.0.0.jar"
-
-hash-format = "sha256"
-hash = "f40667e5aded085e81512282f4abd27d207b8431cf86b940db0f57f271407494"

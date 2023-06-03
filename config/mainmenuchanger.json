@@ -1,0 +1,9 @@
+{
+  "smallerSplash": false,
+  "changeCopyrightToC": true,
+  "shorterVersionText": true,
+  "modCount": false,
+  "disableRealmsButtonAndNotifs": false,
+  "disableSideButtons": true,
+  "mergeMultiAndSingle": false
+}

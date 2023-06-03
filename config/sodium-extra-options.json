@@ -39,7 +39,7 @@
   },
   "render_settings": {
     "fog_distance": 0,
-    "fog_start": 100,
+    "fog_start": 65,
     "multi_dimension_fog_control": false,
     "dimensionFogDistance": {
       "minecraft:overworld": 0,
@@ -77,5 +77,11 @@
   },
   "notification_settings": {
     "hide_r_s_o_recommendation": false
+  },
+  "super_secret_settings": {
+    "fetch_sodium_extra_crowdin_translations": false,
+    "sodium_extra_crowdin_project_identifier": "sodium-extra",
+    "fetch_sodium_crowdin_translations": false,
+    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }

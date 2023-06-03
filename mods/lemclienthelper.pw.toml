@@ -1,9 +1,0 @@
-name = "LEM client helper"
-filename = "lemclienthelper-0.0.13-1.19.jar"
-side = "client"
-
-[download]
-url = "https://github.com/kyrptonaught/LEMClientHelper/releases/download/0.0.13/lemclienthelper-0.0.13-1.19.jar"
-
-hash-format = "sha256"
-hash = "1feb279b94e7a9e6506cb8f37d9c6b5b01cf402c986fd3a0da41839432dacf80"

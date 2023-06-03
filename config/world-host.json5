@@ -1,0 +1,10 @@
+{
+	serverIp: "world-host.jemnetworks.com:9646",
+	showOnlineStatus: true,
+	enableFriends: true,
+	enableReconnectionToasts: false,
+	noUPnP: false,
+	useShortIp: false,
+	friends: [
+	]
+}

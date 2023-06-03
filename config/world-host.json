@@ -1,0 +1,10 @@
+{
+  "serverUri": "",
+  "showOnlineStatus": true,
+  "enableFriends": true,
+  "enableReconnectionToasts": false,
+  "friends": [
+    "07bab6a3-c73b-470a-8e0b-644ffada1b1c",
+    "a20181ca-a75d-401e-ac58-36ab8f040cf5"
+  ]
+}
