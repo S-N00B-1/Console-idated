@@ -16,7 +16,7 @@ Consoleidated is a modpack designed to bring the gameplay experience from the Le
 
 <details open>
 <summary>Mini Games?</summary>
-This modpack is made to work for the LEM server network (<a href="https://lemsite.derpbox.xyz">minigames.derpbox.xyz</a>,)
+This modpack is made to work for the LEM server network (<a href="https://lemsite.derpbox.xyz">lem.derpbox.xyz</a>,)
 and should maintain full compatibility.
 <br></br>
 <b>ONLY THE BATTLE MINI GAME</b> is currently available, with tumble soon to follow.
