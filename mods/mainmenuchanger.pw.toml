@@ -1,13 +1,13 @@
 name = "MainMenuChanger"
-filename = "MainMenuChanger-1.3.1.jar"
+filename = "MainMenuChanger-1.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yCd6z53x/versions/e4egJczf/MainMenuChanger-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/yCd6z53x/versions/RxrpCEeh/MainMenuChanger-1.4.0.jar"
 hash-format = "sha1"
-hash = "ca293045593c4e3379782e6a1ac78effc7d88288"
+hash = "5070fa4b4127e37e774da580aff00d10de714ca7"
 
 [update]
 [update.modrinth]
 mod-id = "yCd6z53x"
-version = "e4egJczf"
+version = "RxrpCEeh"

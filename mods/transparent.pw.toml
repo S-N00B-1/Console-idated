@@ -1,13 +1,13 @@
 name = "Transparent"
-filename = "transparent-fabric-1.19.4-6.0.1.jar"
+filename = "transparent-fabric-8.0.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/2TnVnJIx/transparent-fabric-1.19.4-6.0.1.jar"
+url = "https://cdn.modrinth.com/data/zp4jb9oQ/versions/IY1tJWHA/transparent-fabric-8.0.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "a5ae1b9cab3a0298f5d078709929ef278cdca503"
+hash = "450e1795c2b07c63daf91cafd430e766068fb198"
 
 [update]
 [update.modrinth]
 mod-id = "zp4jb9oQ"
-version = "2TnVnJIx"
+version = "IY1tJWHA"

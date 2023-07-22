@@ -1,8 +1,6 @@
 enabled = true
-rgbText = false
+rgbProgress = false
 loadingScreenHide = false
-worldLoadingHide = true
-showInGui = false
-showInGame = false
+showIn = "DISABLED"
 resetResources = false
-reloadText = "rrls.reloadresources"
+reInitScreen = false

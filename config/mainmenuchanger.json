@@ -1,9 +1,11 @@
 {
   "smallerSplash": false,
   "changeCopyrightToC": true,
-  "shorterVersionText": true,
+  "includeYearInCopyright": false,
   "modCount": false,
   "disableRealmsButtonAndNotifs": false,
   "disableSideButtons": true,
-  "mergeMultiAndSingle": false
+  "mergeMultiAndSingle": false,
+  "versionTextEnum": "SHORT",
+  "customVersionString": "{minecraft}"
 }

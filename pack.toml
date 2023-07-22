@@ -1,16 +1,16 @@
 name = "Console-idated"
 author = "S_N00B"
-version = "1.0.6"
+version = "1.0.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "98bfbf09e0b5bf926401ccdd7d1421f0472dc0af2d6366559643bd0cf99815da"
+hash = "dea52e09e3e6db2dc46f33dc18aea51ca8178731ad93ffb29b37e2a29c0727c3"
 
 [versions]
 fabric = "0.14.21"
-minecraft = "1.19.4"
+minecraft = "1.20.1"
 
 [options]
-acceptable-game-versions = ["1.19.3", "1.19.4"]
+acceptable-game-versions = ["1.20.1"]
