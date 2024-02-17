@@ -1,13 +1,13 @@
 name = "BE Style Wither"
-filename = "bestylewither-fabric-mc1.20-1.6.0.jar"
+filename = "bestylewither-fabric-mc1.20.2-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OkmRZ5fH/versions/3ZAVSk1T/bestylewither-fabric-mc1.20-1.6.0.jar"
+url = "https://cdn.modrinth.com/data/OkmRZ5fH/versions/H8Ze2qmV/bestylewither-fabric-mc1.20.2-1.7.0.jar"
 hash-format = "sha1"
-hash = "8deb717e0ce1e03f3fc97a05ad3e919527fa3a98"
+hash = "ca1bfbf2ebec60ad8389489e814235c40bdcf776"
 
 [update]
 [update.modrinth]
 mod-id = "OkmRZ5fH"
-version = "3ZAVSk1T"
+version = "H8Ze2qmV"

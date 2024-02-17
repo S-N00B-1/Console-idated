@@ -1,13 +1,13 @@
 name = "Old Potions"
-filename = "oldpotions-2.4+1.20.1.jar"
+filename = "Old Potions-fabric-1.20.2-2.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/sGezPIC1/versions/euYycf20/oldpotions-2.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/sGezPIC1/versions/KLHVTSft/Old%20Potions-fabric-1.20.2-2.5.jar"
 hash-format = "sha1"
-hash = "21dd2463754346b8b2e2174bebfea84afd348f8d"
+hash = "16692e09b5ec8152eac1fb924a48ae13373af0f3"
 
 [update]
 [update.modrinth]
 mod-id = "sGezPIC1"
-version = "euYycf20"
+version = "KLHVTSft"

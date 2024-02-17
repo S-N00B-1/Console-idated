@@ -1,4 +1,6 @@
 {
   "CONFIG_VERSION": 1,
+  "has_paperdoll": true,
+  "paperdoll_x": 1.0,
   "server_ip": "figura.moonlight-devs.org:25565"
 }

@@ -1,0 +1,86 @@
+{
+  "configVersion": 2,
+  "controlsMode": "CONTROLLER",
+  "autoSwitchMode": true,
+  "debug": false,
+  "hudEnable": true,
+  "hudSide": "LEFT",
+  "moveChat": false,
+  "analogMovement": true,
+  "doubleTapToSprint": true,
+  "controllerToggleSneak": true,
+  "controllerToggleSprint": false,
+  "fastBlockPlacing": false,
+  "flyDrifting": true,
+  "verticalFlyDrifting": true,
+  "horizontalReacharound": false,
+  "verticalReacharound": false,
+  "shouldRenderReacharoundOutline": true,
+  "reacharoundOutlineColorHex": "#ffffff",
+  "reacharoundOutlineColorAlpha": 102,
+  "rightDeadZone": 0.25,
+  "leftDeadZone": 0.25,
+  "invertRightYAxis": false,
+  "invertRightXAxis": false,
+  "rotationSpeed": 15.0,
+  "yAxisRotationSpeed": 15.0,
+  "mouseSpeed": 25.0,
+  "joystickAsMouse": false,
+  "unfocusedInput": false,
+  "virtualMouse": false,
+  "virtualMouseSkin": "SECOND_LIGHT",
+  "hideNormalMouse": false,
+  "controllerID": 0.0,
+  "secondControllerID": -1.0,
+  "controllerType": "DUALSHOCK",
+  "mouseScreens": [
+    "net.minecraft.client.gui.screen.advancement",
+    "net.minecraft.class_457",
+    "net.minecraft.class_408",
+    "net.minecraft.class_3872",
+    "me.flashyreese.mods.reeses_sodium_options.client.gui",
+    "dev.emi.emi.screen",
+    "me.shedaniel.clothconfig2.gui.ClothConfigScreen",
+    "com.mamiyaotaru.voxelmap.gui.GuiWaypoints",
+    "com.mamiyaotaru.voxelmap.gui.GuiPersistentMap"
+  ],
+  "arrowScreens": [
+    "net.minecraft.class_408"
+  ],
+  "wasdScreens": [
+    "com.ultreon.devices.core.Laptop"
+  ],
+  "BINDING": {
+    "controller.controls.lemclienthelper.key.takeeverything": "-1"
+  },
+  "maxAnalogValues": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "maxAnalogValueLeftX": 1.0,
+  "maxAnalogValueLeftY": 1.0,
+  "maxAnalogValueRightX": 1.0,
+  "maxAnalogValueRightY": 1.0,
+  "triggerFix": true,
+  "enableHints": false,
+  "shortcutInControls": true,
+  "ringBindings": [],
+  "ignoredUnboundKeys": [
+    "inventorytabs.key.next_tab"
+  ],
+  "controllerBindingProfiles": {
+    "030000004c0500006802000000000000": {
+      "controller.controls.lemclienthelper.key.takeeverything": "-1",
+      "controller.controls.tab_next": "-1",
+      "controller.controls.tab_back": "-1",
+      "controller.controls.lemclienthelper.takeeverything": "4",
+      "controller.controls.take_all": "-1",
+      "controller.controls.quick_move": "-1",
+      "controller.controls.take": "-1",
+      "controller.controls.hotbar_left": "4",
+      "controller.controls.hotbar_right": "5"
+    }
+  }
+}

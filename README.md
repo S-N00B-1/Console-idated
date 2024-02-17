@@ -27,4 +27,9 @@ and should maintain full compatibility.
 <summary>Not your cup of tea?</summary>
 Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat
 <p>Support not available for closed alpha</p>
+<details open>
+<summary>Better Legacy Emulation</summary>
+Or consider trying <a href="https://modrinth.com/mod/legacy-minecraft">Legacy4J</a>
+<p>Has no support for LEM.</p>
+</details>
 </details>

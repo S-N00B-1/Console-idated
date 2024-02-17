@@ -1,5 +1,0 @@
-{
-  // Valid: [Google, LibreTranslate, Noop]
-  translationService: "Google",
-  libreTranslateHost: "https://translate.argosopentech.com"
-}

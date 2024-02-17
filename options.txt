@@ -41,9 +41,9 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","programmer_art","fabric","controlify:extra_mappings"]
-incompatibleResourcePacks:[]
-lastServer:minigames.derpbox.xyz
+resourcePacks:["vanilla","fabric","midnightcontrols:legacy","programmer_art","file/vanilla"]
+incompatibleResourcePacks:["midnightcontrols:legacy"]
+lastServer:legacyminigames.xyz
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -117,6 +117,10 @@ key_key.hotbar.9:key.keyboard.9
 key_bedrockIfy.key.settings:key.keyboard.unknown
 key_lemclienthelper.key.takeeverything:key.keyboard.space
 key_lemclienthelper.key.closesmallinv:key.keyboard.i
+key_key.raised.hud.down:key.keyboard.unknown
+key_key.raised.hud.up:key.keyboard.unknown
+key_key.raised.chat.down:key.keyboard.unknown
+key_key.raised.chat.up:key.keyboard.unknown
 key_key.replaymod.playeroverview:key.keyboard.unknown
 key_key.replaymod.lighting:key.keyboard.unknown
 key_key.replaymod.quickmode:key.keyboard.unknown
