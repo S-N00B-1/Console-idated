@@ -138,7 +138,7 @@ hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "347e1ab8229c93777efd2dd9a6350085d9b12e6a57160734210be56a3b617aee"
+hash = "ee8a609c0d8542d7ed73fe784182dc3ce9b4570bc4d0a18a9c1b2ddef564e5cd"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -158,7 +158,7 @@ hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
 file = "config/versionchanger.json5"
-hash = "3df2468aa62d84bb3f3dfdce08b1b009cb1b15f793e8e87397e72efa761fca06"
+hash = "b18dd5580b3e2650d83f1b5d3e86bc1a579c83a86916c0e26ff6589625fc4999"
 
 [[files]]
 file = "config/world-host.json5"
@@ -334,7 +334,7 @@ hash = "fe40226f67d186e346f364572be5a92e1f39de2e490abdf2280132c22328720a"
 
 [[files]]
 file = "mods/Consoleidated-Textures.jar"
-hash = "a5f48da95a0f9d17cf3e7c6cc4df1b25556013b711bdf599b85ab0e5e1f79320"
+hash = "0f4c85dd699637e4ac3734d50a80777706cc3146737e284301bb4d755a6c91ae"
 
 [[files]]
 file = "mods/ash-api.pw.toml"
@@ -491,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
-metafile = true
-
-[[files]]
-file = "mods/transparent.pw.toml"
-hash = "5528e99953ed94280442fc103f6cd917d7d2c838f065f77e812b5338e7bcf143"
 metafile = true
 
 [[files]]
