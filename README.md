@@ -25,11 +25,14 @@ and should maintain full compatibility.
 
 <details open>
 <summary>Not your cup of tea?</summary>
-Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat
-<p>Support not available for closed alpha</p>
+Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat 
+
+Or trying <a href="https://modrinth.com/modpack/quartzs-console-redesigned-n-remodernized">Quartz's Console</a> from QuartzMaven
+<p>LEM compatibility not guaranteed</p>
+
 <details open>
 <summary>Better Legacy Emulation</summary>
-Or consider trying <a href="https://modrinth.com/mod/legacy-minecraft">Legacy4J</a>
+Consider trying <a href="https://modrinth.com/mod/legacy-minecraft">Legacy4J</a>
 <p>Has no support for LEM.</p>
 </details>
 </details>
