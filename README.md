@@ -27,7 +27,7 @@ and should maintain full compatibility.
 <summary>Not your cup of tea?</summary>
 Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat 
 
-Or trying <a href="https://modrinth.com/modpack/quartzs-console-redesigned-n-remodernized">Quartz's Console</a> from QuartzMaven
+Or trying <a href="https://modrinth.com/modpack/quartzs-console-rewritten">Quartz's Console</a> from QuartzMaven
 <p>LEM compatibility not guaranteed</p>
 
 <details open>
