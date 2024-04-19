@@ -27,9 +27,6 @@ and should maintain full compatibility.
 <summary>Not your cup of tea?</summary>
 Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat 
 
-Or trying <a href="https://modrinth.com/modpack/serpos-console">Serpo's Console</a> from serpo, omoso and Quartzmaven
-<p>LEM compatibility not guaranteed</p>
-
 <details open>
 <summary>Better Legacy Emulation</summary>
 Consider trying <a href="https://modrinth.com/mod/legacy-minecraft">Legacy4J</a>
