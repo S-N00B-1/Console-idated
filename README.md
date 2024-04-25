@@ -25,7 +25,7 @@ and should maintain full compatibility.
 
 <details open>
 <summary>Not your cup of tea?</summary>
-Thats okay! Consider trying <a href="https://modrinth.com/modpack/serpos-console">Serpo's Console</a> from serpo, omoso and Quartzmaven
+Thats okay! Consider trying <a href="https://modrinth.com/modpack/serpos-console">Serpo's Console</a> from serpo, and omoso
 
 Or trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat 
 <p>LEM compatibility not guaranteed</p>
