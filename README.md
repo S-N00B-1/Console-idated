@@ -25,7 +25,9 @@ and should maintain full compatibility.
 
 <details open>
 <summary>Not your cup of tea?</summary>
-Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat
+That's okay! Maybe try [Re-Console](https://modrinth.com/modpack/legacy-minecraft) from omoso, Wilyicaro and more
+
+Or try <a href="https://modrinth.com/modpack/legacy_console_experience">Legacy Console Experience</a> from MonFloMat
 
 <p>LEM compatibility not guaranteed</p>
 <details open>
