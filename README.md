@@ -28,7 +28,7 @@ and should maintain full compatibility.
 Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy-minecraft">Re-Console</a> by omoso, Wilyicaro and more
 
 Or try [Legacy Remade](https://modrinth.com/modpack/legacy-remade) by Permdog99
-<p>Not compatible with LEM</p>
+<p>Incompatible with LEM</p>
 
 <details open>
 <summary>Better Legacy Emulation</summary>
