@@ -25,9 +25,8 @@ and should maintain full compatibility.
 
 <details open>
 <summary>Not your cup of tea?</summary>
-Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy-minecraft">Re-Console</a> by omoso, Wilyicaro and more
+Thats okay! Consider trying <a href="https://modrinth.com/modpack/legacy-minecraft">Re-Console</a> by omoso, Devin and more
 
-Or try [Legacy Remade](https://modrinth.com/modpack/legacy-remade) by Permdog99
 <p>Incompatible with LEM</p>
 
 <details open>
