@@ -1,12 +1,4 @@
 {
-	// URL to download the list of packs from
-	"URL": "https://raw.githubusercontent.com/DBTDerpbox/LEM-Menu-Server/main/config/serverutils/switchableresourcepacks.json5",
-	// Should download optifine version of packs
-	"allowOptifine": false,
-	// Should incompatible packs be hidden
-	"hideIncompatiblePacks": true,
-	// Allow Simultaneous Downloads
-	"multiDownload": true,
 	// Should display toast's for completed downloads
 	"toastComplete": true
 }

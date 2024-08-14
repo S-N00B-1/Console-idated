@@ -1,0 +1,84 @@
+{
+  "current_controller": "eb7622eb-697b-3409-9385-12cccaa12507",
+  "controllers": {
+    "eb7622eb-697b-3409-9385-12cccaa12507": {
+      "config": {
+        "controlify:input": {
+          "h_look_sensitivity": 1.0,
+          "v_look_sensitivity": 0.9,
+          "virtual_mouse_sensitivity": 1.0,
+          "reduce_aiming_sensitivity": true,
+          "button_activation_threshold": 0.5,
+          "deadzones": {
+            "controlify:right_stick": 0.111769766,
+            "controlify:left_stick": 0.1659375
+          },
+          "deadzones_calibrated": true,
+          "delayed_calibration": false,
+          "mixed_input": false,
+          "keep_default_bindings": false,
+          "radial_actions": [
+            "controlify:toggle_hud_visibility",
+            "controlify:change_perspective",
+            "controlify:drop_stack",
+            "controlify:open_chat",
+            "controlify:swap_hands",
+            "controlify:pick_block",
+            "controlify:take_screenshot",
+            "controlify:show_player_list"
+          ],
+          "radial_button_focus_timeout_ticks": 20,
+          "mapping": null,
+          "bindings": {
+            "fabric-key-binding-api-v1:lemclienthelper.key.takeeverything": {
+              "button": "controlify:button/left_shoulder"
+            }
+          }
+        },
+        "controlify:config/generic": {
+          "nickname": null,
+          "auto_jump": false,
+          "toggle_sprint": true,
+          "toggle_sneak": true,
+          "disable_fly_drifting": false,
+          "show_ingame_guide": false,
+          "ingame_guide_bottom": true,
+          "show_screen_guides": true,
+          "show_on_screen_keyboard": true,
+          "dont_show_controller_submission": false
+        },
+        "controlify:rumble": {
+          "enabled": true,
+          "vibration_strengths": {
+            "controlify:gui": 1.0,
+            "controlify:interaction": 1.0,
+            "controlify:player": 1.0,
+            "controlify:master": 1.0,
+            "controlify:world": 1.0
+          }
+        }
+      }
+    }
+  },
+  "global": {
+    "virtual_mouse_screens": [
+      "net.minecraft.class_465"
+    ],
+    "keyboardMovement": false,
+    "keyboard_movement_whitelist": [],
+    "out_of_focus_input": false,
+    "load_vibration_natives": true,
+    "custom_vibration_natives_path": "",
+    "vibration_onboarded": true,
+    "reach_around": "OFF",
+    "allow_server_rumble": true,
+    "ui_sounds": false,
+    "notify_low_battery": true,
+    "quiet_mode": false,
+    "ingame_button_guide_scale": 1.0,
+    "seen_servers": [
+      "test.legacyminigames.net",
+      "legacyminigames.net"
+    ]
+  }
+}

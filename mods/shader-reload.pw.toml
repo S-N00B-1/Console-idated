@@ -1,13 +1,13 @@
 name = "Shader Reload"
-filename = "shader-reload-1.9.jar"
+filename = "shader-reload-1.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PWSJEHkd/versions/htBspycB/shader-reload-1.9.jar"
+url = "https://cdn.modrinth.com/data/PWSJEHkd/versions/w7ZU8lSR/shader-reload-1.10.jar"
 hash-format = "sha1"
-hash = "3bd8c628ec6b0ad2bf1433544c698b3cd7eccca4"
+hash = "411acddc1f87ed5d464b92be4de179b10f618b0a"
 
 [update]
 [update.modrinth]
 mod-id = "PWSJEHkd"
-version = "htBspycB"
+version = "w7ZU8lSR"

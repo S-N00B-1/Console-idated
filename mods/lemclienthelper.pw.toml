@@ -1,0 +1,13 @@
+name = "LEMClientHelper"
+filename = "lemclienthelper-0.0.28-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7aopnLji/versions/cvn0lJ6B/lemclienthelper-0.0.28-1.20.4.jar"
+hash-format = "sha1"
+hash = "f9884156e4c47353fec8f2047941e9fc825a99f2"
+
+[update]
+[update.modrinth]
+mod-id = "7aopnLji"
+version = "cvn0lJ6B"

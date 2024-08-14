@@ -1,6 +1,6 @@
 name = "Fast Minecart"
 filename = "fastminecart-1.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/BHUz7jn9/versions/RzOXOFQw/fastminecart-1.0.0.jar"

@@ -1,13 +1,13 @@
 name = "Cool Elytra Roll"
-filename = "cool_elytra-1.5.jar"
-side = "both"
+filename = "cool_elytra-1.5-mc1.20.3.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/TnJMIIQ2/versions/zKs6q7zR/cool_elytra-1.5-mc1.20.3.jar"
 hash-format = "sha1"
-hash = "1713a30ae330afe14b7f99f764d057ec51495567"
-mode = "metadata:curseforge"
+hash = "aeeb20f3ef8580a3f08c73fc267c5a55248350f4"
 
 [update]
-[update.curseforge]
-file-id = 5028666
-project-id = 518515
+[update.modrinth]
+mod-id = "TnJMIIQ2"
+version = "zKs6q7zR"
