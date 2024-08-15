@@ -101,10 +101,6 @@ file = "config/held-item-info.json"
 hash = "f91effb4259664719e7a507238bd79194eb25340de7c8ab9fd47aaa630765291"
 
 [[files]]
-file = "config/immediatelyfast.json"
-hash = "2c26bdb40d2013c212f0fbdb05b7e87c5774a5dfeca1259806dae42de463c5eb"
-
-[[files]]
 file = "config/indium-renderer.properties"
 hash = "5c4c2380bedd956b37e9d6081975f00d412624f1da89db11168cfde5b1c4acca"
 
@@ -206,7 +202,7 @@ hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "a821ef34389df15db40de83e8d2c82dc891955114e4cd8d7f07392df43bf8c4c"
+hash = "dc0642c4eae8503ea480cd40bffb6bd0be87cf6c3953e442468e9cecc64c0709"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -230,7 +226,7 @@ hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
 file = "config/versionchanger.json5"
-hash = "f2b2f49a9b99fc9c595e4da8945793228e5dfaa91a93edf47063dbf40652a755"
+hash = "8641c02bb2afea31dd4ef25cb09c2d9f9eb59c213926abe2b22cb4570348bedb"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -429,10 +425,6 @@ file = "figura/trust_settings.nbt"
 hash = "34520cb14fe6289ef9131576f73276702d29ab56798764f4f374387438e5ecad"
 
 [[files]]
-file = "hotbar.nbt"
-hash = "fe40226f67d186e346f364572be5a92e1f39de2e490abdf2280132c22328720a"
-
-[[files]]
 file = "mods/Consoleidated-Textures.jar"
 hash = "0f4c85dd699637e4ac3734d50a80777706cc3146737e284301bb4d755a6c91ae"
 
@@ -527,18 +519,13 @@ hash = "c24e05bc69b5e571da13b6f854c89ea093deab2b74b1bd3e8f17113a2f01c07e"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "6be56e4af966f5f08148087a7b5ccd5676bcfc203552b8d0a1439e4be5614da5"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
 file = "mods/lceui-0.0.6.jar"
-hash = "54ae51264a16333b2e60ed182dad2b6d0580e20ac60fe5a3a4270fb6348e47fc"
+hash = "ea60d2e211a8b74fd1916a90e1a00725fb0cbeee7ddf9454620ff4ba91587a38"
 
 [[files]]
 file = "mods/lemclienthelper.pw.toml"
