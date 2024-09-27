@@ -1,264 +1,260 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "75b84f356ca9fef8e2d0ac7a60d37779dcebbd58b56fef93f8742baffd065dd8"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerWhitelist.json"
-hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
-file = "config/balm-common.out.toml"
-hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
-
-[[files]]
-file = "config/balm-common.toml"
-hash = "21e5a62a27c0c15667d3747ec84e9043849770e31f1d482bd0658d6a554541a7"
-
-[[files]]
-file = "config/bestylewither.toml"
-hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
-
-[[files]]
-file = "config/blanket-client.mixin.properties"
-hash = "e144c64fc841a6b63014694975651120160d4997ddcdbbc905ebdfcf8b4c4370"
-
-[[files]]
-file = "config/blanket_client-fixes.json"
-hash = "88182d7ae763252872d8f976ce2036d4a31a0abd4c812157345ac59b429f8319"
-
-[[files]]
-file = "config/citresewn-defaults.json"
-hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
-
-[[files]]
-file = "config/citresewn.json"
-hash = "4b1cd0db2ab534ac6e8e1ad4e87007a1d79ef778a4379b8e57b27e222938b7a9"
-
-[[files]]
-file = "config/consolesounds.json"
-hash = "d7a42ee9253dd13f25dd628f23092856520ee4c95d93df83f8c5ca666877fe64"
-
-[[files]]
-file = "config/controlify.json"
-hash = "81b7ed525a8b904fe4e582c7e370eabc33e3cb7795faa1546a8670c3b9cb80d2"
-
-[[files]]
-file = "config/cool_elytra.json"
-hash = "505fab05dc0672b2678bf0d8d6d99db45e8a8a5ee212f308a79e339d1adf6ad3"
-
-[[files]]
-file = "config/defaultoptions-common.toml"
-hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
-
-[[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "c49f7ef98f347b6327a84be2282b9fd9d4b2281b8784b5b72d3513e60e0c3ba4"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "894ce8d872d9a32da8cd640ff7f323b3b3f6bff439237874687895f180832e7b"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "8941af597462bf69d9adab4c49ccea8607a59828344fc6cfe4772a082604891d"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "6f55d03564f6c9a55b256ed1de63573b998b3c97e68b90b20e0672a7873eaf52"
-
-[[files]]
-file = "config/figura.json"
-hash = "fc262e1c9019590b39be07dbbdabcdcde440ca831c6a05d25fb0104da2549301"
-
-[[files]]
-file = "config/glsl_panorama.json"
-hash = "cb5199f435b570069a39945eafa3bd5e50e7469cffb4a3e31bdc40dc761c475c"
-
-[[files]]
-file = "config/held-item-info.json"
-hash = "f91effb4259664719e7a507238bd79194eb25340de7c8ab9fd47aaa630765291"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "5c4c2380bedd956b37e9d6081975f00d412624f1da89db11168cfde5b1c4acca"
-
-[[files]]
 file = "config/lceui/config.json5"
 hash = "e04f90416b02e463b17731c883f3d6e1298dccb14c57affdcc243d5c12d6de97"
-
-[[files]]
-file = "config/lemclienthelper/hud.json5"
-hash = "c1fb83143600fc9f19d885b3186e737f2016de1d0f1a2fd1a5676d3140e51147"
-
-[[files]]
-file = "config/lemclienthelper/resourcepreloader.json5"
-hash = "9c890ca3e5cae2c23a8a552e26b7b8ca6b115cd7b06872239a625b7030b34f39"
-
-[[files]]
-file = "config/lemclienthelper/serverconfigs.json5"
-hash = "5d0b9311ff85d1db2a0c70160517531ab5ed6dda5850b6e91008826ded056f5f"
-
-[[files]]
-file = "config/lemclienthelper/smallinv.json5"
-hash = "b8724eacf61d31cb060d51829bf519df77cadf71bfc4c5e8fa3cadc0fd61e2fc"
-
-[[files]]
-file = "config/lemclienthelper/syncedkeybinds.json5"
-hash = "ec3540e3d5665f73771634aee64c2efbcbd54561e7ee2795abfe2c489209e67a"
-
-[[files]]
-file = "config/lemclienthelper/take_everything.json5"
-hash = "4a9a3e51f17217d41ca0d967e1f3d3db02085a3fe5d3627245902ae062d17eff"
-
-[[files]]
-file = "config/libjf-config-core-v2.json5"
-hash = "4638305cf13f8e6e38b6ab26afa76b6611364abf81e951941eb26b3db485e818"
-
-[[files]]
-file = "config/libjf-translate-v1.json5"
-hash = "4a3277bdbe194c396f93ad1c3548f87cb1f542fcbbb5827713d0655ec4632807"
-
-[[files]]
-file = "config/libjf-web-v1.json5"
-hash = "98f78f40683128c6d7dc0cb73727b7c2d4e27090c4dad484dbc60c7fca9fdddb"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "8ad8f88d7e25e63699b13111ffc6c766720efbd0e4f80dba7436b77ff8aed778"
-
-[[files]]
-file = "config/mainmenuchanger.json"
-hash = "af7745e7baf512a2fbf06f8a068e1005f9d8ee330cf0c652795630d08d173da6"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
 hash = "649e9c765cba9b6867a27a1b3a41dd5df01f6b6b32299ac33448400c6012b340"
 
 [[files]]
-file = "config/midnightcontrols.json"
+file = "config/versionchanger.json5"
+hash = "6b17c41562eb8e6b273c556ad70b0dcfcb0551eeea7456e7cf3934bc71cd5ab6"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Common.json"
+hash = "75b84f356ca9fef8e2d0ac7a60d37779dcebbd58b56fef93f8742baffd065dd8"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-ServerWhitelist.json"
+hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
+file = "config/yosbr/config/balm-common.out.toml"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
+
+[[files]]
+file = "config/yosbr/config/balm-common.toml"
+hash = "21e5a62a27c0c15667d3747ec84e9043849770e31f1d482bd0658d6a554541a7"
+
+[[files]]
+file = "config/yosbr/config/bestylewither.toml"
+hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
+
+[[files]]
+file = "config/yosbr/config/blanket-client.mixin.properties"
+hash = "e144c64fc841a6b63014694975651120160d4997ddcdbbc905ebdfcf8b4c4370"
+
+[[files]]
+file = "config/yosbr/config/blanket_client-fixes.json"
+hash = "88182d7ae763252872d8f976ce2036d4a31a0abd4c812157345ac59b429f8319"
+
+[[files]]
+file = "config/yosbr/config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "4b1cd0db2ab534ac6e8e1ad4e87007a1d79ef778a4379b8e57b27e222938b7a9"
+
+[[files]]
+file = "config/yosbr/config/consolesounds.json"
+hash = "d7a42ee9253dd13f25dd628f23092856520ee4c95d93df83f8c5ca666877fe64"
+
+[[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "81b7ed525a8b904fe4e582c7e370eabc33e3cb7795faa1546a8670c3b9cb80d2"
+
+[[files]]
+file = "config/yosbr/config/cool_elytra.json"
+hash = "505fab05dc0672b2678bf0d8d6d99db45e8a8a5ee212f308a79e339d1adf6ad3"
+
+[[files]]
+file = "config/yosbr/config/defaultoptions-common.toml"
+hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
+
+[[files]]
+file = "config/yosbr/config/entityculling.json"
+hash = "81b6afd82e5ab2ca45b5fc0f025ef5638b3d2df534dbc05bb7e399042706c961"
+
+[[files]]
+file = "config/yosbr/config/fabric/indigo-renderer.properties"
+hash = "6f55d03564f6c9a55b256ed1de63573b998b3c97e68b90b20e0672a7873eaf52"
+
+[[files]]
+file = "config/yosbr/config/figura.json"
+hash = "fc262e1c9019590b39be07dbbdabcdcde440ca831c6a05d25fb0104da2549301"
+
+[[files]]
+file = "config/yosbr/config/glsl_panorama.json"
+hash = "cb5199f435b570069a39945eafa3bd5e50e7469cffb4a3e31bdc40dc761c475c"
+
+[[files]]
+file = "config/yosbr/config/held-item-info.json"
+hash = "f91effb4259664719e7a507238bd79194eb25340de7c8ab9fd47aaa630765291"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "5c4c2380bedd956b37e9d6081975f00d412624f1da89db11168cfde5b1c4acca"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/hud.json5"
+hash = "c1fb83143600fc9f19d885b3186e737f2016de1d0f1a2fd1a5676d3140e51147"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/resourcepreloader.json5"
+hash = "9c890ca3e5cae2c23a8a552e26b7b8ca6b115cd7b06872239a625b7030b34f39"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/serverconfigs.json5"
+hash = "5d0b9311ff85d1db2a0c70160517531ab5ed6dda5850b6e91008826ded056f5f"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/smallinv.json5"
+hash = "b8724eacf61d31cb060d51829bf519df77cadf71bfc4c5e8fa3cadc0fd61e2fc"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/syncedkeybinds.json5"
+hash = "ec3540e3d5665f73771634aee64c2efbcbd54561e7ee2795abfe2c489209e67a"
+
+[[files]]
+file = "config/yosbr/config/lemclienthelper/take_everything.json5"
+hash = "4a9a3e51f17217d41ca0d967e1f3d3db02085a3fe5d3627245902ae062d17eff"
+
+[[files]]
+file = "config/yosbr/config/libjf-config-core-v2.json5"
+hash = "4638305cf13f8e6e38b6ab26afa76b6611364abf81e951941eb26b3db485e818"
+
+[[files]]
+file = "config/yosbr/config/libjf-translate-v1.json5"
+hash = "4a3277bdbe194c396f93ad1c3548f87cb1f542fcbbb5827713d0655ec4632807"
+
+[[files]]
+file = "config/yosbr/config/libjf-web-v1.json5"
+hash = "98f78f40683128c6d7dc0cb73727b7c2d4e27090c4dad484dbc60c7fca9fdddb"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "8ad8f88d7e25e63699b13111ffc6c766720efbd0e4f80dba7436b77ff8aed778"
+
+[[files]]
+file = "config/yosbr/config/mainmenuchanger.json"
+hash = "af7745e7baf512a2fbf06f8a068e1005f9d8ee330cf0c652795630d08d173da6"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
 hash = "555fa97b307c01461d6a292bb6abf34612d0c56325ca57ff999e9a34944f0f53"
 
 [[files]]
-file = "config/midnightlib.json"
+file = "config/yosbr/config/midnightlib.json"
 hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
 
 [[files]]
-file = "config/modernfix-mixins.properties"
+file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "8137a2b6b019a92bf41722a67a5a5fcbd9db37a482f94567b40063c5d2c8b1e8"
 
 [[files]]
-file = "config/modmenu.json"
+file = "config/yosbr/config/modmenu.json"
 hash = "0226ed312d85e6e783bd0e6bf4344c47ee1fee84bbe2260ed8f87ec8ce414feb"
 
 [[files]]
-file = "config/oldpotions.toml"
+file = "config/yosbr/config/oldpotions.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/raised.json"
+file = "config/yosbr/config/raised.json"
 hash = "790d2d62ccbe6f51bd08df3f14c6b6a12f6428235b0fb6a5f980a642d11d125a"
 
 [[files]]
-file = "config/replaymod-rendersettings.json"
+file = "config/yosbr/config/replaymod-rendersettings.json"
 hash = "d8fd7d05f11674ae842e4369146be8746f0001461c898e7cdd1f44dd73b8ffb6"
 
 [[files]]
-file = "config/replaymod.json"
+file = "config/yosbr/config/replaymod.json"
 hash = "cc92d221438a2857011a71ba933ea362bab6d0253c95923bbb028e72f364bc19"
 
 [[files]]
-file = "config/rrls.toml"
+file = "config/yosbr/config/rrls.toml"
 hash = "b0d06804880622761eb02a150543b8279eae4828a41e59bfd1d22d0742d0dae3"
 
 [[files]]
-file = "config/simple-rpc/server-entries.toml"
+file = "config/yosbr/config/simple-rpc/server-entries.toml"
 hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
 
 [[files]]
-file = "config/simple-rpc/simple-rpc-replaymod.toml"
+file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
 hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
 
 [[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "dc0642c4eae8503ea480cd40bffb6bd0be87cf6c3953e442468e9cecc64c0709"
+file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
+hash = "ace4cde39addd612f4370da9851a98e7f145ff5a802f18d9ba88d9c7c53351f7"
 
 [[files]]
-file = "config/smoothboot.json"
+file = "config/yosbr/config/smoothboot.json"
 hash = "e96438af51e995d5f15d0053af921e778a854ca72b147839b150172305d73be3"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
+file = "config/yosbr/config/sodium-fingerprint.json"
 hash = "5aa056c3157c9e741f9002cb33dc12413da376d935a889987da78a133ed62e55"
 
 [[files]]
-file = "config/sodium-mixins.properties"
+file = "config/yosbr/config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
-file = "config/sodium-options.json"
+file = "config/yosbr/config/sodium-options.json"
 hash = "58d50becb2c9d7b21d95416b5e5b0952cf3c1d92077d6f95caf31725ea358f63"
 
 [[files]]
-file = "config/tr7zwDonorSettings.json"
+file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
 
 [[files]]
-file = "config/versionchanger.json5"
-hash = "8641c02bb2afea31dd4ef25cb09c2d9f9eb59c213926abe2b22cb4570348bedb"
-
-[[files]]
-file = "config/voicechat/translations.properties"
+file = "config/yosbr/config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
+file = "config/yosbr/config/voicechat/username-cache.json"
 hash = "abaa9daf21b71b16769b11ebda40f0954e468579991d7750f2923f720886274d"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "03cca1c00c04694e7d47953716c585f4038bb91f7b6a4a83a8502f0dfb8675a5"
 
 [[files]]
-file = "config/voicechat/voicechat-server.properties"
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
 hash = "9bec70d145f7c5673e7c60d81a6f2c889a10ee64ca25341f4f77300de2d40499"
 
 [[files]]
-file = "config/voicechat/voicechat-volumes.properties"
+file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "config/world-host-friends.json"
+file = "config/yosbr/config/world-host-friends.json"
 hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
 
 [[files]]
-file = "config/world-host.json5"
+file = "config/yosbr/config/world-host.json5"
 hash = "3da076adb7a5f61299027892b68587729be7a58f262798dbf218b0103e601803"
 
 [[files]]
-file = "config/yacl.json5"
+file = "config/yosbr/config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "5d72b27986089f1db96acf699eb41fa0e0e09c3d908a877c6de2a03406bf1c2e"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "8941af597462bf69d9adab4c49ccea8607a59828344fc6cfe4772a082604891d"
 
 [[files]]
 file = "figura/avatars/LCE/BabyGhast/avatar.json"
@@ -454,8 +450,13 @@ hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
 metafile = true
 
 [[files]]
+file = "mods/ci-lce-ui.pw.toml"
+hash = "da1bb09788f0a5a58772675becc20e152da16749caf2a3e5e6ffd70d85b38926"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "eedead342bdd4f2b7aa9d148641a7b8ce7f54ef0d68e49ed82e0c5541a8fe7bf"
 metafile = true
 
 [[files]]
@@ -480,7 +481,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "e89afe0085501ac84053488f61f37e842f6d33a7d730468c3568a7f8e36c17f4"
+hash = "1b3cee712c386fa543975ae69c9095c317e4ad4bcb9684aabeac7e3255e4e716"
 metafile = true
 
 [[files]]
@@ -490,12 +491,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "19234a2e250e302674c9ccc9b457a3789e475d92c0d3e849e2a61e093caa9ee9"
+hash = "a6ad419cfad0e4bca848d626e9c3821f6a87ce5cf70b4448b5a00d0d33b15f03"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
+hash = "dc16bea52f249d03468c8f34ca625b089f163917dbed55ff785a9c09ebe39d3a"
 metafile = true
 
 [[files]]
@@ -522,10 +523,6 @@ metafile = true
 file = "mods/indium.pw.toml"
 hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
-
-[[files]]
-file = "mods/lceui-0.0.6.jar"
-hash = "ea60d2e211a8b74fd1916a90e1a00725fb0cbeee7ddf9454620ff4ba91587a38"
 
 [[files]]
 file = "mods/lemclienthelper.pw.toml"
@@ -584,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "0397e5fb52cf2e3330a32c82a9954a288dac5628837d3d1badb50ce7fab8d749"
+hash = "582d7b78df4e2d9206c657581a2150102f8c473608b817a49612ba302e8e8a1c"
 metafile = true
 
 [[files]]
@@ -599,12 +596,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "f877c23c32e7eb04a89c832c11a3bf1e7262e95a7092cee7a14e95ec758cc11a"
+hash = "4bbb611ecb06e6623618cf3f1db99c8fce842af602d3470cafe16607b26f947c"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e44e1b27a775b9bc5a183f36424b656bd90a47996ef0dd9469dac95531f068c6"
+hash = "35f0387f115fd913ce548a3230344d45b5f1b13f4b0fc3467e13b5773ddaa472"
 metafile = true
 
 [[files]]
@@ -628,8 +625,9 @@ hash = "ef419cbac65f613bac1f30d9a6ff68dd704bdea0f0929928956b4f5306a70d0b"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "632f5c6518c9349a6fd391b941828ad5a629d0f9903d7c8efc8513f7999beb2b"
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
 
 [[files]]
 file = "resourcepacks/ConsoleVC.zip"
@@ -882,7 +880,3 @@ hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
 [[files]]
 file = "saves/Tutorial World/stats/e332d293-8d58-424d-a686-07b54e63da84.json"
 hash = "2317e076b5248ba02dc95e057328fd0388f09a9c40285e59cb56a8bdc0a530ba"
-
-[[files]]
-file = "servers.dat"
-hash = "8941af597462bf69d9adab4c49ccea8607a59828344fc6cfe4772a082604891d"

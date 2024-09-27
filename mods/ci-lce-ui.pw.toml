@@ -1,0 +1,13 @@
+name = "Console-Idated's LCE UI"
+filename = "CI-lceui-0.0.8-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/afmGxhh0/versions/PxG4P6I5/CI-lceui-0.0.8-1.20.4.jar"
+hash-format = "sha1"
+hash = "7adc3f4878b95ef518d497e6985daae4b795bf67"
+
+[update]
+[update.modrinth]
+mod-id = "afmGxhh0"
+version = "PxG4P6I5"
