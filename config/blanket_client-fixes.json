@@ -43,7 +43,7 @@
       "BUGFIX",
       "EXPERIMENTAL"
     ],
-    "value": true
+    "value": false
   },
   "entityDamageDesyncFix": {
     "description": "Fix client damaging items \u0026 experience orbs leading to de-sync",

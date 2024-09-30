@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/blanket_client-fixes.json"
+hash = "a69aba00480f8150e61de2eb12ddff926fb9f90e78cfdc1e191e6d320fe34fa6"
+
+[[files]]
 file = "config/lceui/config.json5"
 hash = "e04f90416b02e463b17731c883f3d6e1298dccb14c57affdcc243d5c12d6de97"
 
@@ -9,8 +13,20 @@ file = "config/mainmenuchanger.json5"
 hash = "649e9c765cba9b6867a27a1b3a41dd5df01f6b6b32299ac33448400c6012b340"
 
 [[files]]
+file = "config/simple-rpc/server-entries.toml"
+hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc-replaymod.toml"
+hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "75a5cd825cd91562a9f59254d57c4751e50d0f50793690b396ab1d1d3cfd2a69"
+
+[[files]]
 file = "config/versionchanger.json5"
-hash = "6b17c41562eb8e6b273c556ad70b0dcfcb0551eeea7456e7cf3934bc71cd5ab6"
+hash = "537b54d6840283495e22de90ac7b01750cf06d39788e216741d3d735b774ca0e"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -51,10 +67,6 @@ hash = "d0bd61ffac3500a94a61cd827b4d2d5973ec3ecf33b2c81ebb7c2401746b2e2d"
 [[files]]
 file = "config/yosbr/config/blanket-client.mixin.properties"
 hash = "e144c64fc841a6b63014694975651120160d4997ddcdbbc905ebdfcf8b4c4370"
-
-[[files]]
-file = "config/yosbr/config/blanket_client-fixes.json"
-hash = "88182d7ae763252872d8f976ce2036d4a31a0abd4c812157345ac59b429f8319"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -183,18 +195,6 @@ hash = "cc92d221438a2857011a71ba933ea362bab6d0253c95923bbb028e72f364bc19"
 [[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "b0d06804880622761eb02a150543b8279eae4828a41e59bfd1d22d0742d0dae3"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/server-entries.toml"
-hash = "17b07ca5f6758448c4c2effbe9cb9f7b2b534c83b1287b5b751c3bbe4f74f2d0"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc-replaymod.toml"
-hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
-
-[[files]]
-file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
-hash = "ace4cde39addd612f4370da9851a98e7f145ff5a802f18d9ba88d9c7c53351f7"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -632,251 +632,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/ConsoleVC.zip"
 hash = "3780a57bf71863a888b85ae2b34f7e92715939d3867f50550ea463a2a4580fc3"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/data/capabilities.dat"
-hash = "2b818c4a2100a78c92ba11192142d1d5076af04d13010f16f4d18c8026c80f6b"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/data/raids.dat"
-hash = "72e67090bef227724642beb55cd808f9ef1222722cc4ebff7579ffc304bebb91"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/region/r.-1.-1.mca"
-hash = "c8788764fcfb372176c71878651f8b3cb64e0512dc40d523dd2031fbe8ad0f8f"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/region/r.-1.0.mca"
-hash = "3b68ea7fd6b1386b0799da8b96f6f3008c111dba74f151524a74391233c2158e"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/region/r.0.-1.mca"
-hash = "1f137f9a7ba3c18d8aed7fb1fd4198cfe54c5221a5a64a6b35d172d99e4640c4"
-
-[[files]]
-file = "saves/Tutorial World/DIM-1/region/r.0.0.mca"
-hash = "6350e4c45512fe5159ee596c34120a82504d51d92e7f3c21d5867e2b4589956a"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/data/capabilities.dat"
-hash = "2b818c4a2100a78c92ba11192142d1d5076af04d13010f16f4d18c8026c80f6b"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/data/raids_end.dat"
-hash = "72e67090bef227724642beb55cd808f9ef1222722cc4ebff7579ffc304bebb91"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/region/r.-1.-1.mca"
-hash = "2e7152db43cdec283c92c99a6976a0dc35a02c73cedd70611343bd627fb4004f"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/region/r.-1.0.mca"
-hash = "133bb78286bb9d0c52b4c35e1535227f8ddf4c6d59ad3fb11b55c4f421d625fb"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/region/r.0.-1.mca"
-hash = "f8685e0d5fbeaaed0cdbbf7191e393e99269928e8bb2cfea821790b085f9d1f9"
-
-[[files]]
-file = "saves/Tutorial World/DIM1/region/r.0.0.mca"
-hash = "7c09254b71fcd54f35a97589224acba829aa6f35728e85880bf87a167e35185e"
-
-[[files]]
-file = "saves/Tutorial World/advancements/e332d293-8d58-424d-a686-07b54e63da84.json"
-hash = "d6b0743fde675a2dff694f8be582f6b822457ce0ba09c7cd77a7dcd6bc46def2"
-
-[[files]]
-file = "saves/Tutorial World/data/capabilities.dat"
-hash = "2b818c4a2100a78c92ba11192142d1d5076af04d13010f16f4d18c8026c80f6b"
-
-[[files]]
-file = "saves/Tutorial World/data/raids.dat"
-hash = "72e67090bef227724642beb55cd808f9ef1222722cc4ebff7579ffc304bebb91"
-
-[[files]]
-file = "saves/Tutorial World/icon.png"
-hash = "6d7fd3ece0197c9badcd099abb39e2450d9fcb5c192c50736abb5f3e88be9071"
-
-[[files]]
-file = "saves/Tutorial World/level.dat"
-hash = "843b7c5dc46f6edf6bb4fbecf09514687aec5b9345d7c788a5688d9074f30b52"
-
-[[files]]
-file = "saves/Tutorial World/level.dat_old.gz"
-hash = "25fafd195dd4a9261d4ff1fdde3cd3e61675ead884bb133000a626eb21b1c00f"
-
-[[files]]
-file = "saves/Tutorial World/playerdata/e332d293-8d58-424d-a686-07b54e63da84.dat"
-hash = "8699b972db5bb7dd4a0a08b5a475c89afc2596c3823c87f829197437a2df5324"
-
-[[files]]
-file = "saves/Tutorial World/playerdata/e332d293-8d58-424d-a686-07b54e63da84.dat_old.gz"
-hash = "8699b972db5bb7dd4a0a08b5a475c89afc2596c3823c87f829197437a2df5324"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-1.-1.mca"
-hash = "27711b7ef173880d7c4fefe0f350ab68f7c8cb6aa50e712fef1f58d991207a8f"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-1.-2.mca"
-hash = "3c1b246a5fc41f132123bc3f968af10636e1c7410aac689ed7d72c61be4c5619"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-1.0.mca"
-hash = "b8becd9f2c59cc3b09bbcde4a08c1be4b5725d940b3df2029e64c36d0ec63ab2"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-1.1.mca"
-hash = "cb4f4602442743df204e422ce2ae6b82fc7be9722e9af2f796112d0563f31488"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-2.-1.mca"
-hash = "ed2e8749d1993cabb122661be7528aff5f8873abd473052b4905f923184aed14"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-2.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-2.0.mca"
-hash = "78f9312fe859143fcba145ee4f03954d92e18778b4ea1d5b050ee5f5b132a1a1"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.-2.1.mca"
-hash = "c7ccb85c693d839555b4255a4e76d17aecdbdb733b8c3f6ffa4c942f7ab963ae"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.0.-1.mca"
-hash = "11bae7d3e19f3122c3026d79b6fa676ea52cdb675df02eb6573c310d151cb66d"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.0.-2.mca"
-hash = "42e73d349c1eaa57c5fa30980a671c891a01c6f454428131ba1e6e3cdf2c0316"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.0.0.mca"
-hash = "4b23f0b5a12b68ee080147370b219ff360c9ad9aebf8358b81a7a5c300db2322"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.0.1.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.1.-1.mca"
-hash = "4a5b037bfafc10dc2c363e81fa55075209aecd3a54886f5124c0dfee67e8b085"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.1.-2.mca"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.1.0.mca"
-hash = "135100ab5a342886a266a6e24bd56604c6b505b443178f16fc3cae802f21f313"
-
-[[files]]
-file = "saves/Tutorial World/poi/r.1.1.mca"
-hash = "c12f8f2dd6eaaf0e1cc0b5f7e991791adcf449330e230eca0be884f1df46f2d1"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-1.-1.mca"
-hash = "4dc0a141e0f7cb0badab7d5ac0a93e8675c1f756063f62b9985c0c4209555bf6"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-1.-2.mca"
-hash = "015bc980553b775865d1c18c88b2a19648b204959d4a32a813fecf984c4b75b8"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-1.0.mca"
-hash = "cc9c59df9f50d06b67e2eb916494d3aaba72713ff4829da5e8f67f18be23a40a"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-1.1.mca"
-hash = "456a5f66821733976c4a3f7d30b838aca30a4760d7ff67b676b12598e5169320"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-1.2.mca"
-hash = "fbf394a11809249f18d514e4b9accc1ce0529160cd0f7286fba6d8144769bf37"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-2.-1.mca"
-hash = "b89f124296c1f43db4097b68818afb2506fe8684930157d42f4a067c022b78fd"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-2.-2.mca"
-hash = "59c359360e7043ab59fc80f22dd6e6509219e624117c037792ea825f1c1a63c7"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-2.0.mca"
-hash = "49ecc3fca17cc0b8ae5cc918525fe027772c4fea0d9285bd824eb32102429b44"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-2.1.mca"
-hash = "735fcab667fb6c1909dbd3daafe2314dfced4ad0ef3051d0191e505a0edbb302"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-2.2.mca"
-hash = "3423153fd6a929113873704e26f8d20f3367e96eae1f5c1780722aea1b63165d"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-3.-1.mca"
-hash = "c7774ab126580384019f1d172ab86eb871c7e44974bc40f3e4dccb9476def309"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-3.0.mca"
-hash = "7150f31156529762e4a3162dff75b0fcbb71d2c79d7649e54eec5059f10e4f4f"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-3.1.mca"
-hash = "5824303faa3b152218b9120281d5028a739599c5ac67b6297dc7b0395bd03583"
-
-[[files]]
-file = "saves/Tutorial World/region/r.-3.2.mca"
-hash = "3711e24b3853f2fb31ec624065b634f303f5d11f7eaf066af20f18b110868f50"
-
-[[files]]
-file = "saves/Tutorial World/region/r.0.-1.mca"
-hash = "de0e620e7c32095dee4b71ba4951221b9c27b9348e2fc5b8214df605f8d2e1d8"
-
-[[files]]
-file = "saves/Tutorial World/region/r.0.-2.mca"
-hash = "ae8174574b1f220bf2b152c5ed6a7334c7cf3f6bb3b00ce3965afa14f586d537"
-
-[[files]]
-file = "saves/Tutorial World/region/r.0.0.mca"
-hash = "7da5b199481ab84ff3cb9475442ea0c52b5308dee007c4d11bae2bffaa6af3a9"
-
-[[files]]
-file = "saves/Tutorial World/region/r.0.1.mca"
-hash = "f2392e82d3c5ec39729584677e2bdcbd213055aadba5feccedd2438292a3c37b"
-
-[[files]]
-file = "saves/Tutorial World/region/r.0.2.mca"
-hash = "0aa669b80e1414cc7537a9d91209c8d92f65cd8e8454f32beb67f4b19b512337"
-
-[[files]]
-file = "saves/Tutorial World/region/r.1.-1.mca"
-hash = "fa938857481bcc0d9e381a313b3a7a1280fef883813ff6fbc22250ce6406e9de"
-
-[[files]]
-file = "saves/Tutorial World/region/r.1.-2.mca"
-hash = "c77091ef9446f13d305ba2dee2b35ef684d7ad4a10d80f77244c5af2237d77ba"
-
-[[files]]
-file = "saves/Tutorial World/region/r.1.0.mca"
-hash = "4a44af31646cf52241bf74925ede098ce9d84b20d9ff62e49a3b19804c414167"
-
-[[files]]
-file = "saves/Tutorial World/region/r.1.1.mca"
-hash = "cd3791e2a2a132e769df3348f2be89c3d5c3ee8c691dde6380480a193fa7135c"
-
-[[files]]
-file = "saves/Tutorial World/serverconfig/forge-server.toml"
-hash = "5942faa1911e2785c8befd1691a8d40b8bbaf8d301fbc4cf1c939eaaded26407"
-
-[[files]]
-file = "saves/Tutorial World/session.lock"
-hash = "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
-
-[[files]]
-file = "saves/Tutorial World/stats/e332d293-8d58-424d-a686-07b54e63da84.json"
-hash = "2317e076b5248ba02dc95e057328fd0388f09a9c40285e59cb56a8bdc0a530ba"
