@@ -6,7 +6,7 @@ hash = "a69aba00480f8150e61de2eb12ddff926fb9f90e78cfdc1e191e6d320fe34fa6"
 
 [[files]]
 file = "config/lceui/config.json5"
-hash = "e04f90416b02e463b17731c883f3d6e1298dccb14c57affdcc243d5c12d6de97"
+hash = "4e5a7ebcdb955280336d6b059ecf9d8594c6ab06e61190393ff2d46c0bce9ff2"
 
 [[files]]
 file = "config/mainmenuchanger.json5"
@@ -26,7 +26,7 @@ hash = "75a5cd825cd91562a9f59254d57c4751e50d0f50793690b396ab1d1d3cfd2a69"
 
 [[files]]
 file = "config/versionchanger.json5"
-hash = "537b54d6840283495e22de90ac7b01750cf06d39788e216741d3d735b774ca0e"
+hash = "3b97f49039cea8cf008652498a5fc3260eea848b09a0936ec454f1c7a3d1e938"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -87,6 +87,10 @@ hash = "81b7ed525a8b904fe4e582c7e370eabc33e3cb7795faa1546a8670c3b9cb80d2"
 [[files]]
 file = "config/yosbr/config/cool_elytra.json"
 hash = "505fab05dc0672b2678bf0d8d6d99db45e8a8a5ee212f308a79e339d1adf6ad3"
+
+[[files]]
+file = "config/yosbr/config/cpm.json"
+hash = "1af7fa920e445446edaeb97200086e91d1b72bf4309b26f928bd2b43da7681ec"
 
 [[files]]
 file = "config/yosbr/config/defaultoptions-common.toml"
@@ -250,7 +254,7 @@ hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5d72b27986089f1db96acf699eb41fa0e0e09c3d908a877c6de2a03406bf1c2e"
+hash = "aeb3ce3e02024566b5acd3b1a0aa3dff5488dc892fe919ea72491398c6a83336"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -369,6 +373,22 @@ file = "figura/avatars/LCE/NickValentine/script.lua"
 hash = "6c72fde43d5a1cad6bdc1c29339733b30227a371e6363bcc5175af03497146b4"
 
 [[files]]
+file = "figura/avatars/LCE/PartyPlasticSteve/avatar.json"
+hash = "d533cd8ffc4599f401caf3ecf3b68eac05131ba152efdf60d887899f3bacd6fb"
+
+[[files]]
+file = "figura/avatars/LCE/PartyPlasticSteve/avatar.png"
+hash = "ab062a58c336294ecb418e03b8fefc3a6b08036cfa3cdf8f784971a225464d50"
+
+[[files]]
+file = "figura/avatars/LCE/PartyPlasticSteve/model.bbmodel"
+hash = "08eb461b9934727b28f14983fd009e3056cfdd4f12d8fe047da294e25915ad8f"
+
+[[files]]
+file = "figura/avatars/LCE/PartyPlasticSteve/script.lua"
+hash = "fa7a4f4897e377ae5e1dda178f448d7cfd2b169826a802b9210f2675ae4f4605"
+
+[[files]]
 file = "figura/avatars/LCE/R2D2/avatar.json"
 hash = "974120a361c9060f2180c05fb3e4bb2c7a97d9741ad1ffdd96a64b5f04913a8e"
 
@@ -421,8 +441,8 @@ file = "figura/trust_settings.nbt"
 hash = "34520cb14fe6289ef9131576f73276702d29ab56798764f4f374387438e5ecad"
 
 [[files]]
-file = "mods/Consoleidated-Textures.jar"
-hash = "0f4c85dd699637e4ac3734d50a80777706cc3146737e284301bb4d755a6c91ae"
+file = "mods/Console-IdatedInternals-1.2.1.jar"
+hash = "220d06de59b39e5896ae46f333cc9882075fac126d7c2af12d48bd49e3c4e718"
 
 [[files]]
 file = "mods/ash-api.pw.toml"
@@ -445,13 +465,8 @@ hash = "cbd4c7fa64d8ee6362b9279aed6fd5f65df6ca1d9000e8dd4a6d0e1eeafbd175"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "868db465e6635a883d1b692d56164c1c14d687d960a93e6f9d9fd74c1cd43f2e"
-metafile = true
-
-[[files]]
 file = "mods/ci-lce-ui.pw.toml"
-hash = "da1bb09788f0a5a58772675becc20e152da16749caf2a3e5e6ffd70d85b38926"
+hash = "0558f3762cbcc2e7aebcdbef96f535795cdff445ab0ae3231b73939d51bdc4ed"
 metafile = true
 
 [[files]]
@@ -481,7 +496,12 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "1b3cee712c386fa543975ae69c9095c317e4ad4bcb9684aabeac7e3255e4e716"
+hash = "60e7f0eeaa8b579ea005b19ac0743e95de81e07db94b268bbd350170a240a53e"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "caeee48f3d1484c12dac951204a102e4d26ee7eab7584764e9e673088faa9a0b"
 metafile = true
 
 [[files]]
@@ -507,11 +527,6 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "86b04cfe168e7d9e4e8c9da9c025230fced19b2faac577fca79e8acbdef64007"
-metafile = true
-
-[[files]]
-file = "mods/glsl-panorama.pw.toml"
-hash = "beb349243a2e20b4cdc075a30d3773d74d7b3ede79b78b792e99f3f953b24959"
 metafile = true
 
 [[files]]
@@ -596,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "4bbb611ecb06e6623618cf3f1db99c8fce842af602d3470cafe16607b26f947c"
+hash = "f877c23c32e7eb04a89c832c11a3bf1e7262e95a7092cee7a14e95ec758cc11a"
 metafile = true
 
 [[files]]
@@ -607,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/toggle-scoreboard.pw.toml"
+hash = "e0c253cc26ebbd157573fce77b7e10f4d6e9dc9244c1a00d62f27fefc9639a16"
 metafile = true
 
 [[files]]
@@ -628,7 +648,3 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
-
-[[files]]
-file = "resourcepacks/ConsoleVC.zip"
-hash = "3780a57bf71863a888b85ae2b34f7e92715939d3867f50550ea463a2a4580fc3"

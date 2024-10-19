@@ -1,0 +1,13 @@
+name = "Toggle Scoreboard"
+filename = "toggle-scoreboard-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mos865A9/versions/CDLm49ko/toggle-scoreboard-1.2.1.jar"
+hash-format = "sha1"
+hash = "016a0f44b574e6029167d26b152693f751292e5c"
+
+[update]
+[update.modrinth]
+mod-id = "Mos865A9"
+version = "CDLm49ko"

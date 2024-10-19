@@ -1,15 +1,15 @@
 name = "Console-idated"
 author = "S_N00B"
-version = "1.2.3"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ada27f5966c89189e7487c57f47cbcf98917ff7666971904c26887af62aaae42"
+hash = "9ea683faf411047d7520dc37c38bc3269a3c875ae901d04f960fc30adb56fa52"
 
 [versions]
-fabric = "0.16.0"
+fabric = "0.16.7"
 minecraft = "1.20.4"
 
 [options]

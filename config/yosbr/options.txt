@@ -11,7 +11,7 @@ particles:0
 graphicsMode:2
 biomeBlendRadius:1
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/ConsoleVC.zip","controlify:legacy_console","programmer_art"]
+resourcePacks:["vanilla","fabric","programmer_art","minecraft:consoleidated-internal-rp","controlify:legacy_console","minecraft:consoleidated-svc-icons"]
 incompatibleResourcePacks:["ash_api","balm-fabric","craterlib","defaultoptions","modernfix","oldpotions","replaymod","rrls","simplerpc","yet_another_config_lib_v3"]
 lastServer:legacyminigames.net
 chatVisibility:0
