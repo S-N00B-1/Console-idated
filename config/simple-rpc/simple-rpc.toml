@@ -26,7 +26,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[init.buttons]]
@@ -47,7 +47,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[main_menu.buttons]]
@@ -68,7 +68,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[server_list.buttons]]
@@ -107,7 +107,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = []
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 	buttons = []
 
@@ -125,7 +125,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[single_player.buttons]]
@@ -146,7 +146,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["lem"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[multi_player.buttons]]
@@ -172,7 +172,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[realms.buttons]]
@@ -191,7 +191,7 @@
 	#The Asset ID/URL of the image to display as the small image
 	smallImageKey = ["block"]
 	#The text that gets displayed when the small image is hovered
-	smallImageText = "Version 1.2.3"
+	smallImageText = "Version 1.3.1"
 	#The buttons to display on Discord 
 
 	[[generic.buttons]]

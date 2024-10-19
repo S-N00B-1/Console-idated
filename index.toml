@@ -22,7 +22,7 @@ hash = "ab1ceb84f9ec5905ba057b2b22c7e31e21fbed63dfc02854dd56b58ee7a1136c"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
-hash = "75a5cd825cd91562a9f59254d57c4751e50d0f50793690b396ab1d1d3cfd2a69"
+hash = "4242cf007170cb235aafa65f0d342be0f3d4d0342832f373af78f64cb334b26f"
 
 [[files]]
 file = "config/versionchanger.json5"
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/ci-lce-ui.pw.toml"
-hash = "0558f3762cbcc2e7aebcdbef96f535795cdff445ab0ae3231b73939d51bdc4ed"
+hash = "7e0fa4012ee372c9f30d049e33e9afeafab638d87d040253977c9cae000ba5df"
 metafile = true
 
 [[files]]
@@ -502,11 +502,6 @@ metafile = true
 [[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "caeee48f3d1484c12dac951204a102e4d26ee7eab7584764e9e673088faa9a0b"
-metafile = true
-
-[[files]]
-file = "mods/default-options.pw.toml"
-hash = "6a36ea2329ed74f9a0e5b796f7d789ee4fd195fb1d1d0c8933a6dd5fbbcec8a9"
 metafile = true
 
 [[files]]
